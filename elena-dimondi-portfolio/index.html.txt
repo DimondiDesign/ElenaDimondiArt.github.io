@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Elena Dimondi | Creadora escénica</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<!-- BANNER -->
+
+<section class="banner">
+
+<div class="slides">
+
+<img src="images/banner/banner1.jpg">
+<img src="images/banner/banner2.jpg">
+<img src="images/banner/banner3.jpg">
+<img src="images/banner/banner4.jpg">
+
+</div>
+
+<div class="banner-text">
+<h1>Elena Dimondi</h1>
+<p>Creadora escénica · Actriz · Malabarista · Asistente de dirección</p>
+</div>
+
+</section>
+
+<!-- SOBRE MI -->
+
+<section class="about">
+
+<div class="about-container">
+
+<img src="images/perfil/elena_retrato.jpg">
+
+<div class="about-text">
+
+<h2>Sobre mí</h2>
+
+<p>
+Elena Dimondi es creadora escénica cuya práctica se sitúa en el cruce entre teatro,
+circo contemporáneo y performance.
+</p>
+
+<p>
+Su trabajo integra actuación, manipulación de objetos y acompañamiento creativo en procesos
+de dirección.
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- PROYECTOS -->
+
+<section class="projects">
+
+<h2>Proyectos</h2>
+
+<div class="project-grid">
+
+<div class="project">
+<img src="images/malabares/fuego1.jpg">
+<h3>Performances de malabarismo</h3>
+<p>Performer · 2022–2024</p>
+</div>
+
+<div class="project">
+<img src="images/patriarcado/patriarcado1.jpg">
+<h3>Cómo deconstruir el patriarcado sin morir en el intento</h3>
+<p>Asistente de dirección · 2024–2025</p>
+</div>
+
+<div class="project">
+<img src="images/lorca/lorca1.jpg">
+<h3>No he vuelto a tomar café con Lorca</h3>
+<p>Asistente de dirección · 2025</p>
+</div>
+
+<div class="project">
+<img src="images/luna/luna1.jpg">
+<h3>Bajo la luz de la luna</h3>
+<p>Performer · Cielo Azul Circo · 2025</p>
+</div>
+
+<div class="project">
+<img src="images/mictlan/mictlan1.jpg">
+<h3>Mictlán</h3>
+<p>Asistente de dirección · 2024</p>
+</div>
+
+</div>
+
+</section>
+
+<!-- GALERIA -->
+
+<section class="gallery">
+
+<h2>Galería</h2>
+
+<div class="gallery-grid">
+
+<img src="images/malabares/fuego1.jpg">
+<img src="images/patriarcado/patriarcado1.jpg">
+<img src="images/lorca/lorca1.jpg">
+<img src="images/luna/luna1.jpg">
+<img src="images/mictlan/mictlan1.jpg">
+
+</div>
+
+</section>
+
+<!-- CONTACTO -->
+
+<section class="contact">
+
+<h2>Contacto</h2>
+
+<form>
+
+<input type="text" placeholder="Nombre">
+
+<input type="email" placeholder="Email">
+
+<textarea placeholder="Mensaje"></textarea>
+
+<button>Enviar</button>
+
+</form>
+
+</section>
+
+<footer>
+
+<p>© Elena Dimondi</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
